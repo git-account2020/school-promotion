@@ -428,3 +428,7 @@ Use
 - Add the row inside the container
 - Add the columns inside the rows
 
+
+### Images responsive
+-Boostrap
+  - Should automatically be but if not add w-100
