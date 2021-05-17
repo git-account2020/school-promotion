@@ -336,6 +336,14 @@ to fix this add .p-2 to the first dropdown item in each dropdown menu
 ### Put space (padding ) in between buttons
 - add padding to the div conting the buttons
  
+ ### Images responsive
+-Boostrap
+  - Should automatically be but if not add w-100
+
+### Full width inside column (boostrap)
+- remove padding on columns
+
+
 ## Section
 
 ### Column sizes need to be even but not fill the entire width
@@ -429,6 +437,3 @@ Use
 - Add the columns inside the rows
 
 
-### Images responsive
--Boostrap
-  - Should automatically be but if not add w-100
