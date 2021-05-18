@@ -1,11 +1,23 @@
 
-.learn-text{
-  font-family: Helvetica;
-}
+
 
 .learn-button{
   background-color: #Ffd43d;
   width:170px;
   height: 41px;
-  font-family: Helvetica;
+}
+
+.learn-button-start{
+  width:247px;
+  height:41px;
+}
+
+.learn-span-slash{
+  color: #00b3e6;
+  font-weight:bold;
+}
+
+.learn-span-text{
+  font-family:Helvetica;
+  font-weight:700;
 }
