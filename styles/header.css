@@ -14,6 +14,10 @@
 
 
 */
+
+.header-container{
+  background-color: #EEEEEE !important;
+}
 .header-row{
   height:43px;
 }

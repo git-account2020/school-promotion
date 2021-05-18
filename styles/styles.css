@@ -5,3 +5,11 @@
 body{
   font-family: Helvetica;
 }
+
+body{
+  background-color: #EEEEEE !important;
+}
+
+.container{
+  background-color: #ffffff;
+}
