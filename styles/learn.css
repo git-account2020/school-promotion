@@ -5,11 +5,14 @@
   background-color: #Ffd43d;
   width:170px;
   height: 41px;
+  font-weight:700;
+ 
 }
 
 .learn-button-start{
   width:247px;
   height:41px;
+  
 }
 
 .learn-span-slash{
@@ -18,6 +21,6 @@
 }
 
 .learn-span-text{
-  font-family:Helvetica;
+ 
   font-weight:700;
 }

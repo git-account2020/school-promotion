@@ -1,0 +1,21 @@
+.footer-container{
+  background-color: #EEEEEE !important;
+}
+
+.footer-paragraph-follow{
+  color: #82919d;
+  font-family:helvetica;
+  font-size: 11px;
+}
+
+.footer-socialIcons{
+  width:30px;
+  height:30px;
+  
+}
+
+.footer-paragraph-text{
+  color: #6e6e6e;
+  font-size: 12px;
+  font-family: Helvetica;
+}

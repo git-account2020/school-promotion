@@ -1,9 +1,10 @@
 @import url(header.css);
 @import url(hero.css);
 @import url(learn.css);
+@import url(footer.css);
 
 body{
-  font-family: Helvetica;
+  font-family: Helvetica !important;
 }
 
 body{
@@ -13,3 +14,4 @@ body{
 .container{
   background-color: #ffffff;
 }
+
